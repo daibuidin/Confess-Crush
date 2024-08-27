@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Gửi tới ny...<3",
-    introTitle: 'Hoàng Thị Minh Anh',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
+    introTitle: 'Hú Hú!❤️',
+    introDesc: `Dậy thôi bạn ơi, gà gáy rát hết họng ròi 
+    ngủ thế gà nào gáy cho nổi🐓. `,
+    btnIntro: 'Nhấn vảo đây nè 🌥️',
+    title: 'Dậy sớm để thành công nào đồng chí!!  😙',
+    desc: 'Ngủ méo ngủ lắm 🙏🙏🙏  ',
+    btnYes: 'Có!Đang dậy rồi đây 😽 ',
+    btnNo: 'Đéo 🖕',
+    question:'Biết sao gọi dậy sớm không ? 👉👈',
+    btnReply: 'Gửi đại ca 💌',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Mãi bên nhau bạn nhớ.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://fb,com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    mess: 'Anh thích anh gọi được không kkk 😝😝',
+    messDesc: 'lêu lêu 😝. Lo mà dậy ăn uống đe.',
+    btnAccept: 'Nhấn vào để phản hồi🖕',
+    messLink: 'https://www.messenger.com/e2ee/t/8070647702978026' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
